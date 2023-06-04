@@ -1,0 +1,6 @@
+[submodule "packages/react-h5-component"]
+	path = packages/react-h5-component
+	url = git@github.com:lidengkai/react-h5-component.git
+[submodule "packages/react-h5-container"]
+	path = packages/react-h5-container
+	url = git@github.com:lidengkai/react-h5-container.git
